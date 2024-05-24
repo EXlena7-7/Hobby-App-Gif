@@ -1,2 +1,2 @@
-🌠 Hobby App Gif
+#🌠 Hobby App Gif
 Una pequeña aplicacion hecha en React con Hooks para buscar y mostrar gifs animados
