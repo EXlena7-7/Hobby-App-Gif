@@ -4,7 +4,7 @@ import { AddCategory } from './components/AddCategory';
 import { GifGrid } from './components/GifGrid';
 
 export const GifExpertApp = () => {
-   const [categories, setCategories] = useState(['Miku']);
+   const [categories, setCategories] = useState(['Taylor Swift']);
 
    console.log(categories);
   return (
